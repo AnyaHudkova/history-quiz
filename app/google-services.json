@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951251945787",
+    "firebase_url": "https://history-quiz-c2387-default-rtdb.firebaseio.com",
+    "project_id": "history-quiz-c2387",
+    "storage_bucket": "history-quiz-c2387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951251945787:android:0081be24ad7588c70a0f1e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951251945787-v6nh3jb6v03rkmo59aq5l738uftn3m09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy9gMrFIahonIps32WVtoIK7a8MNliWGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951251945787-v6nh3jb6v03rkmo59aq5l738uftn3m09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

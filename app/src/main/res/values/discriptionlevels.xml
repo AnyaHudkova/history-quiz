@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_one">Сhoose what was built later. Questions can be repeated until you score 20 points</string>
+    <string name="level_two">Сhoose who was born later. Questions can be repeated until you score 20 points</string>
+    <string name="level_one_end">"Level 1 passed! Göbekli Tepe is the oldest of the major megalithic structures in the world.
+        Its age is estimated to be 12,000 years old, tentatively dating back to at least the 9th millennium BC."</string>
+
+    <string name="leve_two_end">"Level 2 passed! Zinoviy Bogdan Mikhailovich Khmelnitsky - hetman of the Zaporizhzhya Army,
+        military leader, politician and statesman. The leader of the Cossack uprising, as a result of which
+        the Zaporizhzhya Sich and the Left-Bank Ukraine with Kiev finally separated from the Commonwealth and became
+        part of the Russian state.."</string>
+</resources>
